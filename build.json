@@ -1,0 +1,8 @@
+
+
+
+{
+  "src": ["src/model/task.cppm"],
+  "imp": ["std"],
+  "e": "todo"
+}
