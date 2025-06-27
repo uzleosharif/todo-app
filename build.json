@@ -2,7 +2,13 @@
 
 
 {
-  "src": ["src/model/task.cppm"],
+  "src": [
+    "src/model/task.cppm",
+    "src/model/task_impl.cpp",
+    "src/io/main.cpp",
+    "src/core/todo.cppm",
+    "src/core/todo_impl.cpp"
+  ],
   "imp": ["std"],
   "e": "todo"
 }
