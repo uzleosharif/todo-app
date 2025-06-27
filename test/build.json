@@ -1,0 +1,7 @@
+
+
+{
+  "src": ["core_test.cpp", "../src/core/todo_impl.cpp"],
+  "imp": ["std"],
+  "e": "test_todo"
+}
