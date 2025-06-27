@@ -7,7 +7,9 @@
     "src/model/task_impl.cpp",
     "src/io/main.cpp",
     "src/core/todo.cppm",
-    "src/core/todo_impl.cpp"
+    "src/core/todo_impl.cpp",
+    "src/core/utils.cppm",
+    "src/core/utils_impl.cpp"
   ],
   "imp": ["std"],
   "e": "todo"

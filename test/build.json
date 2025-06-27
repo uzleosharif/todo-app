@@ -1,7 +1,12 @@
 
 
 {
-  "src": ["core_test.cpp", "../src/core/todo_impl.cpp"],
+  "src": [
+    "test_core.cpp", 
+    "../src/core/utils.cppm",
+    "../src/core/utils_impl.cpp"
+  ],
   "imp": ["std"],
+  "l": ["Catch2Main", "Catch2"],
   "e": "test_todo"
 }
