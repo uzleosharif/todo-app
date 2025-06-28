@@ -15,7 +15,7 @@ env:
   # your GitHub Container Registry namespace
   REGISTRY: ghcr.io/uzleosharif
   # base image tag you want to build or pull (fully inlined)
-  BASE_IMAGE: ghcr.io/uzleosharif/cpp-modules-base:v1.0.1-todoapp
+  BASE_IMAGE: ghcr.io/uzleosharif/cpp-modules-base:v1.0.1
   # path to your base-image Dockerfile
   BASE_DOCKERFILE: dockers/cpp-modules-base/cpp_modules_base.dockerfile
   # tag for your final build image
