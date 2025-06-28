@@ -1,0 +1,4 @@
+[
+{ "directory": "/tmp/todo-app", "file": "src/core/todo_impl.cpp", "output": "build/src_core_todo_impl.o", "arguments": ["/usr/lib/llvm-20/bin/clang", "-xc++", "src/core/todo_impl.cpp", "-o", "build/src_core_todo_impl.o", "--driver-mode=g++", "-std=c++26", "-stdlib=libc++", "-O3", "-fsanitize=address,leak", "-fmodule-file=std=/modules/bmi/std.pcm", "-fprebuilt-module-path=build/", "-c", "--target=x86_64-pc-linux-gnu"]},
+
+]
